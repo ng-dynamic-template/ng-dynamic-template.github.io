@@ -1,0 +1,14 @@
+{
+    "lorem": {
+        "template": "<h1> Lorem Ipsum </h1>",
+        "home": {
+            "template": "<h2> Home page of Lorem Ipsum </h2>"
+        }
+    },
+    "example": {
+        "template": "<form><label for=\"fname\">First name:</label><br><input type=\"text\" id=\"fname\" name=\"fname\" value=\"John\"><br><label for=\"lname\">Last name:</label><br><input type=\"text\" id=\"lname\" name=\"lname\" value=\"Doe\"><br><br><input type=\"submit\" value=\"Submit\"></form> ",
+        "home": {
+            "template": "<h2> Teste of Example Page </h2>"
+        }
+    }
+}
